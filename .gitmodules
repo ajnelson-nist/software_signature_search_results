@@ -1,0 +1,3 @@
+[submodule "deps/evaluation"]
+	path = deps/evaluation
+	url = https://github.com/ajnelson-nist/software_signature_search_evaluation.git
